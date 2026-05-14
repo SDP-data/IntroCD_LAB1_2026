@@ -1,4 +1,5 @@
 # Project custom ignores
+.matplotlib_cache/
 **/data/
 **/*_draft.*
 
